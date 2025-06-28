@@ -1,0 +1,11 @@
+com/example/notificationservice/config/ElasticSearchConfig.class
+com/example/notificationservice/model/NotificationEvent.class
+com/example/notificationservice/controller/TestEmailController.class
+com/example/notificationservice/sender/TelegramSender.class
+com/example/notificationservice/kafka/NotificationConsumer.class
+com/example/notificationservice/model/LogEvent.class
+com/example/notificationservice/NotificationServiceApplication.class
+com/example/notificationservice/kafka/LogConsumer.class
+com/example/notificationservice/sender/EmailSender.class
+com/example/notificationservice/sender/NotificationSender.class
+com/example/notificationservice/elasticsearch/LogIndexer.class

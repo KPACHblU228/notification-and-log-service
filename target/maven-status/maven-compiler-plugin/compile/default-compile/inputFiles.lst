@@ -1,0 +1,11 @@
+/Users/user/IdeaProjects/NotificationService/src/main/java/com/example/notificationservice/NotificationServiceApplication.java
+/Users/user/IdeaProjects/NotificationService/src/main/java/com/example/notificationservice/config/ElasticSearchConfig.java
+/Users/user/IdeaProjects/NotificationService/src/main/java/com/example/notificationservice/controller/TestEmailController.java
+/Users/user/IdeaProjects/NotificationService/src/main/java/com/example/notificationservice/elasticsearch/LogIndexer.java
+/Users/user/IdeaProjects/NotificationService/src/main/java/com/example/notificationservice/kafka/LogConsumer.java
+/Users/user/IdeaProjects/NotificationService/src/main/java/com/example/notificationservice/kafka/NotificationConsumer.java
+/Users/user/IdeaProjects/NotificationService/src/main/java/com/example/notificationservice/model/LogEvent.java
+/Users/user/IdeaProjects/NotificationService/src/main/java/com/example/notificationservice/model/NotificationEvent.java
+/Users/user/IdeaProjects/NotificationService/src/main/java/com/example/notificationservice/sender/EmailSender.java
+/Users/user/IdeaProjects/NotificationService/src/main/java/com/example/notificationservice/sender/NotificationSender.java
+/Users/user/IdeaProjects/NotificationService/src/main/java/com/example/notificationservice/sender/TelegramSender.java
